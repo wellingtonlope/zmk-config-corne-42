@@ -12,22 +12,22 @@
     combos {
         compatible = "zmk,combos";
 
-        ESC-DF {
+        ESC_DF {
             bindings = <&kp ESC>;
             key-positions = <15 16>;
         };
 
-        ESC-JK {
+        ESC_JK {
             bindings = <&kp ESC>;
             key-positions = <19 20>;
         };
 
-        DEL-F {
+        DEL_F {
             bindings = <&kp DEL>;
             key-positions = <16 40>;
         };
 
-        DEL-J {
+        DEL_J {
             bindings = <&kp DEL>;
             key-positions = <19 40>;
         };
